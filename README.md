@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **pranavi.guttikonda05@gmail.com**
+- 📫 How to reach me **p.avigutti05@gmail.com**
 
 - ⚡ Fun fact **Did you know that the original name for JavaScript was "Mocha"? It was later changed to "LiveScript," and finally to "JavaScript" to leverage the popularity of Java in the mid-1990s.**
 
