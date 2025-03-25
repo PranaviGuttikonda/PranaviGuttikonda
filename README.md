@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranavi Guttikonda</h1>
-<h3 align="center">Passionate Front End Developer🌟 Embracing the Journey of Learning and Growth</h3>
+<h3 align="center">Embracing the Journey of Learning and Growth 🌟🌟</h3>
 
 <img align= "right" alt="coding" width= "400" src= "https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
