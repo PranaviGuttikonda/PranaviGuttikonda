@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💻 Software Developer & Aspiring ML Engineer
+💻 Software Developer & Aspiring ML Engineer
 
 - 🛠️ Currently exploring Python for machine learning and data science.
 
@@ -17,9 +17,11 @@
 
 - 📫 Reach me at p.avigutti05@gmail.com
 
-- ⚡ Fun fact: The first-ever computer bug was a real moth found in Harvard's Mark II computer in 1947! 🦋🌱 I’m currently learning **React**
+⚡ Fun fact: The first-ever computer bug was a real moth found in Harvard's Mark II computer in 1947! 🦋🌱 I’m currently learning **React**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 
+  [LinkedIn] https://www.linkedin.com/in/pranaviguttikonda/
+  </h3>
 <p align="left">
 </p>
 
