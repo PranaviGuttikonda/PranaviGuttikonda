@@ -19,10 +19,8 @@
 
 ⚡ Fun fact: The first-ever computer bug was a real moth found in Harvard's Mark II computer in 1947! 🦋
 
-<h3 align="left">Connect with me: 
-  
-  [LinkedIn] https://www.linkedin.com/in/pranaviguttikonda/
-  </h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/pranaviguttikonda/">LinkedIn</a></h3>
+
 <p align="left">
 </p>
 
