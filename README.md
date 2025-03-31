@@ -7,11 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 💻 Software Developer & Aspiring ML Engineer
 
-- 📫 How to reach me **p.avigutti05@gmail.com**
+- 🛠️ Currently exploring Python for machine learning and data science.
 
-- ⚡ Fun fact **Did you know that the original name for JavaScript was "Mocha"? It was later changed to "LiveScript," and finally to "JavaScript" to leverage the popularity of Java in the mid-1990s.**
+- 🚀 Working with data transformation, visualization, and model development.
+
+- 📊 Passionate about AI, data analysis, and open-source contributions.
+
+- 📫 Reach me at p.avigutti05@gmail.com
+
+- ⚡ Fun fact: The first-ever computer bug was a real moth found in Harvard's Mark II computer in 1947! 🦋🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
