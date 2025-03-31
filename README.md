@@ -9,17 +9,18 @@
 
 💻 Software Developer & Aspiring ML Engineer
 
-- 🛠️ Currently exploring Python for machine learning and data science.
+- 🛠️ Currently exploring **Python for machine learning and data science**.
 
-- 🚀 Working with data transformation, visualization, and model development.
+- 🚀 Working with ***data transformation, visualization, and model development***.
 
-- 📊 Passionate about AI, data analysis, and open-source contributions.
+- 📊 Passionate about ***AI, data analysis, and open-source contributions***.
 
 - 📫 Reach me at p.avigutti05@gmail.com
 
-⚡ Fun fact: The first-ever computer bug was a real moth found in Harvard's Mark II computer in 1947! 🦋🌱 I’m currently learning **React**
+⚡ Fun fact: The first-ever computer bug was a real moth found in Harvard's Mark II computer in 1947! 🦋
 
 <h3 align="left">Connect with me: 
+  
   [LinkedIn] https://www.linkedin.com/in/pranaviguttikonda/
   </h3>
 <p align="left">
